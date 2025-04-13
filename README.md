@@ -19,9 +19,6 @@ A passionate developer dedicated to creating efficient and innovative solutions.
   <img src="https://github-readme-stats.vercel.app/api?username=blankieatduios&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/blankieatduios/blankieatduios/output/github-contribution-grid-snake.svg)
-
 ### 🌱 Current Focus
 - Expanding my knowledge in software development
 - Contributing to open-source projects
