@@ -34,36 +34,6 @@ When I'm not coding, you can find me exploring new technologies and learning abo
 
 ---
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: blankieatduios
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: main
-          message: 'Generate snake animation'
-          add: 'dist'
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blankieatduios&color=blue" alt="Profile views" />
 </p>
