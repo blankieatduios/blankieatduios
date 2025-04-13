@@ -20,11 +20,7 @@ A passionate developer dedicated to creating efficient and innovative solutions.
 </p>
 
 ### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blankieatduios/blankieatduios/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blankieatduios/blankieatduios/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/blankieatduios/blankieatduios/output/github-snake.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/blankieatduios/blankieatduios/output/github-contribution-grid-snake.svg)
 
 ### 🌱 Current Focus
 - Expanding my knowledge in software development
